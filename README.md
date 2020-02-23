@@ -1,6 +1,6 @@
-# handwritten_number_recognizer
+# Handwritten_Number_Recognizer
 
-A new Flutter application.
+This repository contains the codes to make an app the can recognize the numbers drawn on the screen.It has an ML model which was made in tensorflow and converted into a tensorflow lite model to make it work in mobile phones.Feel free to go through the codes and have fun!
 
 ## Getting Started
 
